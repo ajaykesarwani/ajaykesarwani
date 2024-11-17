@@ -15,20 +15,23 @@
 ---
 
 ## 💻 Tech Stack:
-**Languages & Frameworks**  
-Python | Java | C/C++ | Django | Flask | Spring | Spring Boot | FastAPI  
+### **Languages:**
+- Python, Java, C/C++, HTML5, CSS  
 
-**AI/ML/NLP Tools**  
-LangChain | PyTorch | NumPy | Pandas | scikit-learn | Hugging Face | OpenCV  
+### **Frameworks & Libraries:**
+- **Backend:** Django, Flask, FastAPI, Spring, Spring Boot  
+- **AI/ML:** PyTorch, NumPy, Pandas, scikit-learn, Hugging Face  
+- **Frontend:** React, Plotly  
 
-**Databases & Cloud**  
-Postgres | MySQL | Redis | SQLite | AWS | Google Cloud | Heroku | Vercel  
+### **Databases:**
+- PostgreSQL, MySQL, SQLite, Redis  
 
-**DevOps & Tools**  
-Docker | Kubernetes | GitHub Actions | Bitbucket | Terraform | Postman  
+### **Cloud & DevOps:**
+- AWS, Google Cloud, Heroku, Vercel  
+- Docker, Kubernetes, Terraform, GitHub Actions  
 
-**Other Technologies**  
-Plotly | HTML5 | CSS | REST APIs | GraphQL | Celery  
+### **Tools & APIs:**
+- REST APIs, GraphQL, Celery, Postman  
 
 ---
 
