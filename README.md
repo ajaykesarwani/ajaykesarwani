@@ -33,11 +33,11 @@ Plotly | HTML5 | CSS | REST APIs | GraphQL | Celery
 ---
 
 ## 📊 GitHub Stats:
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-kesarwani&show_icons=true&theme=radical)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykesarwani&show_icons=true&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies:
+<!---## 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ajay-kesarwani&theme=radical&no-frame=true&no-bg=true)
 
 ---
@@ -49,5 +49,6 @@ Plotly | HTML5 | CSS | REST APIs | GraphQL | Celery
 
 ## 💰 You can help me by Donating:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/)
+-->
 
 
