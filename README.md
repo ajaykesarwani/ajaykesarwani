@@ -2,9 +2,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently focusing on leveraging AI, ML, and NLP to solve impactful problems.<br>
-🌱 I’m exploring advanced LLM applications, RAG, and vector search for my next projects.<br>
-💬 Ask me about Python development, backend engineering, or NLP techniques!<br>
+🔭 I’m Software Developer with more than 5+ years of experience. I have worked extensively with Java and related technology. Recently M.Sc. in Computer Science at the University of Passau, where I worked on NLP for my thesis on constructiveness in online news comments.<br>
+💬 Ask me about Java, Python development, backend engineering, or NLP techniques!<br>
 ⚡ Fun fact: I enjoy playing chess and analyzing online comments for constructiveness!  
 
 ---
