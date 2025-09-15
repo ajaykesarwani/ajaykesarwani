@@ -2,9 +2,9 @@
 
 
 # 💫 About Me:
-🔭 I’m Software Developer with more than 5+ years of experience. I have worked extensively with Java and related technology. Recently M.Sc. in Computer Science at the University of Passau, where I worked on NLP for my thesis on constructiveness in online news comments.<br>
-💬 Ask me about Java, Python development, backend engineering, or NLP techniques!<br>
-⚡ Fun fact: I enjoy playing chess and analyzing online comments for constructiveness!  
+🔭 I’m a Full Stack AI Software Developer with more than 5+ years of experience. I have worked extensively with Java, Python, C/C++ and related technology. I completed an M.Sc. in Computer Science at the University of Passau, where I worked on NLP for my thesis on constructiveness in online news comments.<br>
+💬 Ask me about Java, Python, Machine Learning, or NLP techniques!<br>
+⚡ Fun fact: I enjoy playing chess and analysing online comments for constructiveness!  
 
 ---
 
