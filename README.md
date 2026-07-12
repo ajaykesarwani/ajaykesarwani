@@ -29,11 +29,14 @@ I specialize in **Applied Natural Language Processing (NLP)**, Large Language Mo
 
 ---
 
-### 📈 GitHub Stats & Consistency
+### 📈 GitHub Engineering Metrics
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaykesarwani&show_icons=true&theme=dark&count_private=true)
+🚀 **Activity Level:** Active ML & Backend Developer  
+🛠️ **Code Standards:** Production-Grade PEP8 / Clean Java OOP  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykesarwani&layout=compact&theme=dark&hide=html,css)
+![Commits](https://img.shields.io/badge/Contributions-Maintained-brightgreen?style=for-the-badge&logo=github)
+![Main Languages](https://img.shields.io/badge/Primary%20Stack-Python%20%7C%20Java%20%7C%20C%2B%2B-blue?style=for-the-badge)
+![Environment](https://img.shields.io/badge/Environment-Linux%20%2F%20Docker-orange?style=for-the-badge&logo=docker)
 
 ---
 
