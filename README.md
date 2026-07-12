@@ -69,12 +69,10 @@
 ---
 
 ## ✍️ Random Dev Quote:
-> “Code is like humor. When you have to explain it, it’s bad.”
+> "Code is like humor. When you have to explain it, it's bad."
 
 ---
 
 ## 💰 You can help me by Donating:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/)
 -->
-
-
