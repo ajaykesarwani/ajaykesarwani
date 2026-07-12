@@ -30,10 +30,10 @@ I specialize in **Applied Natural Language Processing (NLP)**, Large Language Mo
 ---
 
 ### 📈 GitHub Stats & Consistency
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaykesarwani&show_icons=true&theme=visual_studio_code&count_private=true" alt="Ajay's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykesarwani&layout=compact&theme=visual_studio_code&hide=html,css" alt="Top Languages" height="150" />
-</p>
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaykesarwani&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykesarwani&layout=compact&theme=dark&hide=html,css)
 
 ---
 
