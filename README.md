@@ -3,6 +3,8 @@
 ## 💫 About Me
 🔭 I'm an **AI Engineer** with 5+ years of production software experience. I build RAG pipelines, multi-agent LLM systems, and — most recently — compressed an 8B-parameter medical LLM down to 0.6B through structured pruning and knowledge distillation.
 
+🩺 **Recent Work:** Built and deployed an end-to-end medical vision microservice (ResNet-18), utilizing **ONNX Runtime INT8 quantization** to achieve ~6x faster inference on CPUs, fully automated via Terraform and CI/CD pipelines.
+
 🏗️ Before AI, I spent 5 years building high-availability 4G/5G systems at Ericsson and HCL Technologies (Cisco account) — that's where reliability-first engineering became second nature, and it still shapes how I build AI systems today.
 
 🎓 M.Sc. Computer Science (University of Passau) — currently completing a focused Master's in AI Engineering, also at Passau.
@@ -19,6 +21,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**dermatology-ai-service**](https://github.com/ajaykesarwani/dermatology-ai-service) | End-to-End Medical AI microservice — deployed ResNet-18 with ONNX INT8 quantization for 6x faster inference, complete with Dull Razor preprocessing, AWS ECS deployment, CI/CD, and a C# desktop client | FastAPI · ONNX · Docker · AWS · C# |
 | [**model_miniaturization**](https://github.com/ajaykesarwani/model_miniaturization) | Compressed an 8B-parameter medical LLM into a 0.6B triage assistant using structured pruning, knowledge distillation & LoRA — evaluated across 4 clinical datasets | PyTorch · Transformers · LoRA |
 | [**policygpt-rag-docs-qa**](https://github.com/ajaykesarwani/policygpt-rag-docs-qa) | Production-style RAG Q&A over your own documents — hybrid BM25 + dense retrieval, LLM reranking, streaming answers, and an eval harness for recall & faithfulness | FastAPI · ChromaDB · Next.js |
 | [**ai-career-copilot**](https://github.com/ajaykesarwani/ai-career-copilot) | Multi-agent career assistant — parses your resume/GitHub/LinkedIn, ranks live job postings, and drafts tailored resumes & cover letters | LangGraph · Google ADK · Gemini |
@@ -39,6 +42,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005C84?style=for-the-badge&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-8E44AD?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -62,13 +67,16 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Earlier Stack — Enterprise Java (5+ yrs @ Ericsson / HCL)**
+**Earlier Stack — Enterprise & Client Development**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
