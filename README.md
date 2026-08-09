@@ -1,13 +1,15 @@
 # Hi there, I'm Ajay 👋
 
 ## 💫 About Me
-🔭 I'm an **AI Engineer** with 5+ years of production software experience. I build RAG pipelines, multi-agent LLM systems, and — most recently — compressed an 8B-parameter medical LLM down to 0.6B through structured pruning and knowledge distillation.
+🔭 I'm an AI Engineer with 5+ years of production software experience. I build RAG pipelines, multi-agent LLM systems, and — most recently — compressed an 8B-parameter medical LLM down to 0.6B through structured pruning and knowledge distillation.
 
-🩺 **Recent Work:** Built and deployed an end-to-end medical vision microservice (ResNet-18), utilizing **ONNX Runtime INT8 quantization** to achieve ~6x faster inference on CPUs, fully automated via Terraform and CI/CD pipelines.
+🩺 **Recent Work:** Built and deployed an end-to-end medical vision microservice (ResNet-18), utilizing ONNX Runtime INT8 quantization to achieve ~6x faster inference on CPUs, fully automated via Terraform and CI/CD pipelines.
 
-🏗️ Before AI, I spent 5 years building high-availability 4G/5G systems at Ericsson and HCL Technologies (Cisco account) — that's where reliability-first engineering became second nature, and it still shapes how I build AI systems today.
+🛠️ **Open Source**: Active contributor to PyTorch (C++ / CUDA / Python), fixing memory safety bugs and improving core tensor operations
 
-🎓 M.Sc. Computer Science (University of Passau) — currently completing a focused Master's in AI Engineering, also at Passau.
+🏗️ **Before AI, I spent 5 years building high-availability 4G/5G systems at Ericsson and HCL Technologies (Cisco account) — that's where reliability-first engineering became second nature, and it still shapes how I build AI systems today.
+
+🎓 **Education: M.Sc. Computer Science (University of Passau) — currently completing a focused Master's in AI Engineering, also at Passau.
 
 🟢 **Open to AI Engineer / Full-Stack AI Engineer roles** in Europe (onsite or remote).
 
