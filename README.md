@@ -7,7 +7,7 @@
 
 🛠️ **Open Source**: Active contributor to PyTorch (C++ / CUDA / Python), fixing memory safety bugs and improving core tensor operations
 
-🏗️ **Before AI**, I spent 5 years building high-availability 4G/5G systems at Ericsson and HCL Technologies (Cisco account) — that's where reliability-first engineering became second nature, and it still shapes how I build AI systems today.
+🏗️ Before AI, I spent 5 years building high-availability 4G/5G systems at Ericsson and HCL Technologies (Cisco account) — that's where reliability-first engineering became second nature, and it still shapes how I build AI systems today.
 
 🎓 **Education**: M.Sc. Computer Science (University of Passau) — currently completing a focused Master's in AI Engineering, also at Passau.
 
